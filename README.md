@@ -39,4 +39,5 @@ Speech to Textクラウドサービス比較
 
 |サービス|処理速度|サービスタイプ|
 |:--|:--|:--|
-|AWS Transcribe|0.2s/req|`非同期処理`|
+|AWS Transcribe|(日本語非対応)|`非同期処理`|
+|Azure Speech to text|||

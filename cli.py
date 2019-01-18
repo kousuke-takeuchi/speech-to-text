@@ -1,13 +1,4 @@
-import os
-
-import dotenv
 import click
-
-
-'''.envファイルに記載の認証情報をロードする
-'''
-dotenv_path = os.path.join(os.path.dirname(__file__), '.env')
-dotenv.load_dotenv(dotenv_path)
 
 
 '''コマンドグループ
